@@ -4,5 +4,13 @@
 * Experience in Python development
 
 ## Term 1
+### Etch-A-Sketch
+Graphics project with keypress drawing controls.
+![Running App]()
+[Source Code]()
 
 ## Term 2
+### Calculator 
+Object oriented graphical calculator with custom buttons and UI.
+![Running App]()
+[Source Code]()
