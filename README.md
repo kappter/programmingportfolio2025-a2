@@ -6,12 +6,13 @@
 ## Term 1
 ### Etch-A-Sketch
 Graphics project with keypress drawing controls with the ability to save images.
-![Running App]()
+
 [Source Code]()
 
 ## Term 2
 ### Calculator 
 Object oriented graphical calculator with custom buttons and UI.
+
 ![Running App](https://github.com/kappter/programmingportfolio2025-a2/blob/main/images/calc1.png?raw=true)
 
 [Source Code](https://github.com/kappter/programmingportfolio2025-a2/tree/main/src/Calculator)
