@@ -17,3 +17,7 @@ Object oriented graphical calculator with custom buttons and UI.
 
 [Source Code](https://github.com/kappter/programmingportfolio2025-a2/tree/main/src/Calculator)
 
+## Term 3
+### ShapeTester
+![Image of Calculator]()
+[Source Code](https://github.com/kappter/programmingportfolio2025-a2/tree/main/src/ShapeTester)
